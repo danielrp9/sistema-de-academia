@@ -117,6 +117,6 @@ Curso de **Sistemas de Informação — UFVJM**
 ## 👨‍💻 Autor
 
 **Daniel Rodrigues Pereira**
-Desenvolvedor Backend | Java | POO
+
 
 
