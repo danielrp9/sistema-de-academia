@@ -1,0 +1,7 @@
+*.java linguist-language=Java
+
+# Ignorar arquivos que não são parte do core
+*.html linguist-vendored
+*.js linguist-vendored
+*.css linguist-vendored
+*.xml linguist-vendored
